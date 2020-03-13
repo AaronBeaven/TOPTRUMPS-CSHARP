@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/Csharp-Lists/bin/Debug/netcoreapp3.1/Csharp-Lists.deps.json
+/Users/codenation/Desktop/Csharp-Lists/bin/Debug/netcoreapp3.1/Csharp-Lists.runtimeconfig.json
+/Users/codenation/Desktop/Csharp-Lists/bin/Debug/netcoreapp3.1/Csharp-Lists.runtimeconfig.dev.json
+/Users/codenation/Desktop/Csharp-Lists/bin/Debug/netcoreapp3.1/Csharp-Lists.dll
+/Users/codenation/Desktop/Csharp-Lists/bin/Debug/netcoreapp3.1/Csharp-Lists.pdb
+/Users/codenation/Desktop/Csharp-Lists/obj/Debug/netcoreapp3.1/Csharp-Lists.csprojAssemblyReference.cache
+/Users/codenation/Desktop/Csharp-Lists/obj/Debug/netcoreapp3.1/Csharp-Lists.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/Csharp-Lists/obj/Debug/netcoreapp3.1/Csharp-Lists.AssemblyInfo.cs
+/Users/codenation/Desktop/Csharp-Lists/obj/Debug/netcoreapp3.1/Csharp-Lists.dll
+/Users/codenation/Desktop/Csharp-Lists/obj/Debug/netcoreapp3.1/Csharp-Lists.pdb
